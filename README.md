@@ -17,4 +17,6 @@ HTML 디자인 너무 구림. CSS~HTML 로 카카오톡 클론코딩 시작.
 ### 2018-05-25
 
 - HTML CSS 디자인 정리.
-- Nodejs MYSQL 데이터 연동 연습.
+- Nodejs MYSQL 데이터 연동 연습. 
+- JavaScript 이용해서 MYSQL (데이터 가져오기, 데이터 수정, 데이터 추가, 데이터 삭제)
+
