@@ -74,3 +74,7 @@ HTML 디자인 너무 구림. CSS~HTML 로 카카오톡 클론코딩 시작.
 
 - pyhon 문법공부 (반복문)
 - passportjs
+
+### 2018-06-14
+
+- facebook 연동
